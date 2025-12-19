@@ -1,0 +1,7 @@
+{
+  "name": "瑋毅互動系統 (Wei-Yi Interactive System)",
+  "description": "A comprehensive classroom interaction system featuring real-time attendance (GPS/Normal), random picker, and buzzer functionality for teachers and students.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
